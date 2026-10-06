@@ -1,4 +1,4 @@
-# Heatwave
+# Heatwave - Preliminary
 
 ## Soil moisture and temperature before heatwaves
 
